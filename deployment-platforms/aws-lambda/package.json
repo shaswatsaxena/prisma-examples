@@ -1,10 +1,10 @@
 {
   "name": "prisma-aws-lambda-example",
   "dependencies": {
-    "@prisma/client": "2.0.0-alpha.1016"
+    "@prisma/client": "2.0.0-alpha.1017"
   },
   "devDependencies": {
-    "@prisma/cli": "2.0.0-alpha.1016",
+    "@prisma/cli": "2.0.0-alpha.1017",
     "serverless-dotenv-plugin": "2.3.2"
   },
   "license": "MIT"
